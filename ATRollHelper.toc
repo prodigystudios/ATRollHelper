@@ -1,0 +1,7 @@
+## Title: ATRollHelper
+## Version: 1.0
+## Author: Akkiowar
+## Interface: 11502
+## Notes:Helper to add bonus points on rolls
+
+Main.lua

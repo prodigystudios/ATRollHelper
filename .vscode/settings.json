@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "message",
+        "SlashCmdList",
+        "class",
+        "GetText",
+        "ChatFrame_AddMessageEventFilter",
+        "UISpecialFrames",
+        "RANDOM_ROLL_RESULT",
+        "ChatFrame_AddMessage",
+        "RAID"
+    ]
+}
